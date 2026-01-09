@@ -3,8 +3,7 @@
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using **FAISS vector store** and **Groq-hosted LLMs (LLaMA 3)** to enable intelligent question answering and summarization over enterprise case study documents.  
 
-The use case is based on **Tech Mahindra case study PDFs**, focusing on:
-> *Integrated Energy Major Transitions to Multi-Cloud Access, Accelerating Data Access and Enhancing Decision-Making*
+The use case is based on **Tech Mahindra case study PDFs**
 
 ---
 
