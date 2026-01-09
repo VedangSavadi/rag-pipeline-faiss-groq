@@ -1,0 +1,23 @@
+# virtual environment
+venv/
+pyvenv.cfg/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# FAISS / Vector store
+faiss_store/
+vector_store/
+*.index
+*.pkl
+
+# Jupyter notebook chekpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
